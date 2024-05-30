@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-05-30"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "https://lenient-lacewing-41969.upstash.io"
+UPSTASH_REDIS_REST_URL = "AaPxAAIncDEzZGFmODkwN2ZkNjg0OWUyOTdkOTAwNDY0ZTRmOGQ3YXAxNDE5Njk"
